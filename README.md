@@ -1,2 +1,18 @@
-# record-sales-system-frontend
-Frontend project of a record sales system, developed during the 4th Fullstack Bootcamp hosted by Sysmap Solutions.
+### Vinyl Record Loyalty Program 💿
+
+--- 
+
+### How to run the application
+
+#### Install the required dependencies
+```bash
+npm install
+``` 
+#### Run the Front-End
+```bash
+npm run dev
+```
+
+
+
+
